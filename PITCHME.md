@@ -15,13 +15,25 @@ posts to showcase new ranges, etc.
 
 # Prices
 
+---
+
+# Package 1
+
 Package Price | Webpages | Updates | Social Media
 ------------ | ------------- | ------------ | -------------
 £150 | 1 | £6.50 / hour | X
 
+---
+
+# Package 2
+
 Package Price | Webpages | Updates | Social Media 
 ------------ | ------------- | ------------ | -------------
 £350 | 5 | £6.00 / hour | X
+
+---
+
+# Package 3
 
 Package Price | Webpages | Updates | Social Media 
 ------------ | ------------- | ------------ | -------------
