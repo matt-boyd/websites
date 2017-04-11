@@ -1,7 +1,7 @@
 # OpenWebsiteDesigns
 ## Quick rundown
 
----
+#HSLIDE
 
 # What I offer
 
@@ -11,11 +11,11 @@ of the system that will allow for dynamic updating of the content.
 * Furthermore, I offer social media services, for example making Facebook
 posts to showcase new ranges, etc. 
 
----
+#HSLIDE
 
 # Prices
 
----
+#HSLIDE
 
 # Package 1
 
@@ -23,7 +23,7 @@ Package Price | Webpages | Updates | Social Media
 ------------ | ------------- | ------------ | -------------
 £150 | 1 | £6.50 / hour | X
 
----
+#HSLIDE
 
 # Package 2
 
@@ -31,7 +31,7 @@ Package Price | Webpages | Updates | Social Media
 ------------ | ------------- | ------------ | -------------
 £350 | 5 | £6.00 / hour | X
 
----
+#HSLIDE
 
 # Package 3
 
